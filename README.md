@@ -28,6 +28,11 @@ If you do not have the docker and docker-compose and node installed yet,
 cd automation 
 run ./Setting.sh
 
+cd ..
+
+sudo docker compose up or sudo docker compose up &
+
+
 
 <h4>Port
 
