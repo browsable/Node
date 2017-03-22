@@ -21,4 +21,7 @@ git remote add origin [https://github.com/USERID/REPOSITORY-NAME.git]
 git push -u origin master
 
 
-If you do not have the docker installed yet, run ./docker_install.sh
+If you do not have the docker and docker-compose and node installed yet, 
+
+cd automation 
+run ./Setting.sh
