@@ -23,7 +23,7 @@ services:
     - "8080"
     #container_name: "node1"
     command: "node /home/ubuntu/Node/web/app.js"
-    container_name: "dexign_node1"
+    container_name: "node1"
   node2:
       build: ./dockerfile/node
       ports:
@@ -37,7 +37,7 @@ services:
       - "8080"
       #container_name: "node1"
       command: "node /home/ubuntu/Node/web/app.js"
-      container_name: "dexign_node2"
+      container_name: "node2"
   redis:
     ports:
      - "6379:6379"
