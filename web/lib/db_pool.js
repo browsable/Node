@@ -12,5 +12,4 @@ var pool = mysql.createPool({
     password : "node1234",
     database : "node"
 });
-  // Dexign
 module.exports = pool;
