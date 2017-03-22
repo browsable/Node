@@ -21,3 +21,5 @@ sudo apt-get install npm
 #npm install
 cd ../web
 npm install
+
+#run docker-compose
