@@ -4,6 +4,7 @@ Node.Js, Redis, MariaDB, NGINX Skeleton (Ubuntu 16.04)
 
 <h3>Git
 
+
         remove .git 
        
         create a new repository on the command line
@@ -27,6 +28,7 @@ Node.Js, Redis, MariaDB, NGINX Skeleton (Ubuntu 16.04)
 
 <h3>Setting
 
+
     If you do not have the docker and docker-compose and node installed yet, 
 
     cd automation 
@@ -39,5 +41,6 @@ Node.Js, Redis, MariaDB, NGINX Skeleton (Ubuntu 16.04)
 
 
 <h3>Port
+
 
     You should check inbound rules and open port 80, 8080, 443, 6379, 3306.
