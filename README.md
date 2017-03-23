@@ -1,24 +1,26 @@
 # Node
->>Node.Js, Redis, MariaDB, NGINX Skeleton (Ubuntu 16.04)
+Node.Js, Redis, MariaDB, NGINX Skeleton (Ubuntu 16.04)
 
 
->create a new repository on the command line
+>Git
 
-    git init
+        create a new repository on the command line
 
-    git add README.md
+        git init
 
-    git commit -m "first commit"
+        git add README.md
 
-    git remote add origin [https://github.com/USERID/REPOSITORY-NAME.git]
-    git push -u origin master
+        git commit -m "first commit"
+
+        git remote add origin [https://github.com/USERID/REPOSITORY-NAME.git]
+        git push -u origin master
 
 
-    …or push an existing repository from the command line
+        …or push an existing repository from the command line
 
-    git remote add origin [https://github.com/USERID/REPOSITORY-NAME.git]
+        git remote add origin [https://github.com/USERID/REPOSITORY-NAME.git]
 
-    git push -u origin master
+        git push -u origin master
 
 
 >Setting
